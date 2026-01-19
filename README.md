@@ -43,9 +43,19 @@ For readers who wish to learn or refresh concepts, the following resources may b
 
 The course is organized into chapters located in the `docs/` folder:
 
-- Chapter 1 – Context and motivation for multiplexing
-- Chapter 2 – QuPath basics and project setup
-- Chapter 3 – Instance segmentation
-- Chapter 4 – Exporting spatial data to Python
+## Course structure
+
+The course is organized into chapters located in the `docs/` folder:
+
+- [Chapter 1 – QuPath basics and project setup](docs/01_qupath_basics.md)  
+
+- [Chapter 2 – Instance segmentation](docs/02_instance_segmentation.md)  
+
+- [Chapter 3 – Quality control and object classification](docs/03_qc_and_classification.md)  
+
+- [Chapter 4 – Exporting spatial data to Python](docs/04_export_to_python.md)  
+
+- [Chapter 5 – Clustering and spatial neighborhood analysis](docs/05_spatial_analysis.md)  
+
 
 ## License
