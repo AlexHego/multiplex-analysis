@@ -35,12 +35,9 @@ The focus is on understanding workflows and concepts, rather than on providing b
 Basic familiarity with microscopy concepts is assumed.
 No advanced programming skills are required, and Python is introduced progressively when needed.
 
-For readers who wish to learn or refresh background concepts, the following resources may be helpful:
+For readers who wish to learn or refresh concepts, the following resources may be helpful:
 - GloBIAS training resources: https://neubias.github.io/training-resources/all-modules/
 - QuPath documentation: https://qupath.readthedocs.io/en/stable/docs/intro/about.html
-- To discuss image analysis questions, the Image.sc forum: https://forum.image.sc
-
----
 
 ## Course structure
 
@@ -50,3 +47,4 @@ The course is organized into chapters located in the `docs/` folder:
 - Chapter 2 – QuPath basics and project setup
 - Chapter 3 – Instance segmentation
 - Chapter 4 – Exporting spatial data to Python
+
