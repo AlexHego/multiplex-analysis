@@ -16,16 +16,16 @@ This repository provides learning resources for anyone interested in multiplex i
 
 ## Contents
 
-This repository is organized into chapters located in the `docs/` folder:
+This repository is organized into chapters located in the `courses/` folder:
 
-- [Chapter 1 – QuPath basics and project setup](docs/01_qupath_basics.md)  
-- [Chapter 2 – Tissue detection and cell segmentation](docs/02_segmentation.md)  
-- [Chapter 3 – Object classification and phenotyping](docs/03_object_classification.md)  
-- [Chapter 4 – Quality control and data filtering](docs/04_quality_control.md)  
-- [Chapter 5 – First spatial analysis in QuPath](docs/05_spatial_qupath.md)  
-- [Chapter 6 – Graphical spatial analysis with CytoMAP](docs/06_cytomap_spatial_analysis.md)  
-- [Chapter 7 – Transition CytoMAP to Python](docs/07_cytomap_to_python.md)  
-- [Chapter 8 – Advanced spatial analysis in Python](docs/08_python_spatial_analysis.md)  
+- [Chapter 1 – QuPath basics](courses/01_qupath_basics.md)  
+- [Chapter 2 – Tissue detection and cell segmentation](courses/02_segmentation.md)  
+- [Chapter 3 – Object classification and phenotyping](courses/03_object_classification.md)  
+- [Chapter 4 – Quality control and data filtering](courses/04_quality_control.md)  
+- [Chapter 5 – First spatial analysis in QuPath](courses/05_spatial_qupath.md)  
+- [Chapter 6 – Graphical spatial analysis with CytoMAP](courses/06_cytomap_spatial_analysis.md)  
+- [Chapter 7 – Transition CytoMAP to Python](courses/07_cytomap_to_python.md)  
+- [Chapter 8 – Advanced spatial analysis in Python](courses/08_python_spatial_analysis.md)  
 
 ## Prerequisites
 
